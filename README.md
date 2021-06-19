@@ -41,7 +41,7 @@ Thus, the bot can freely move around in its environment guided by SLAM, in addit
 We also can customise the bot by integrating sensors, based on the application area targeted, 
 implying a third objective,
 
-3) Bot-Customisation
+3)Bot-Customisation
  -> Embedding various sensors various sensors like DHT 11(Temperature and humidity sensor),MQ2 gas sensor, etc., to record various desired physical parameters in the surrounding
  environment. This data from the subsidiary sensors can be collected and the same can be transmitted to the local host or server.
 The user there can utilise this to perform necessary computations or even alter the bot's movement based on such inputs specific to the application intended to achieve the
