@@ -25,7 +25,7 @@ work of surveillance remotely with higher performance and reduced cost than the 
 
 We have two compulsory requirements, implying two main objectives,
 
-1)Self-Balancing
+1) Self-Balancing
  -> This 2 wheeled bot is expected to maneuver itself to the calibrated stable position upon experiencing any tilt.
 The two-wheeled robot’s position will be continuously corrected by a gyroscopic sensor communicating with a Raspberry Pi microprocessor.
 The amount of tilt experienced and variation from the stable position can be determined with the help of the MPU6050 accelerometer gyrometer sensor. 
@@ -33,7 +33,7 @@ The motors shall be to turned in the opposite direction of the applied tilt forc
 
 and
 
-2)Localisation and Mapping
+2) Localisation and Mapping
  -> The robot, mounted with wide-angle wireless cameras, shall provide live 360° view video footage.
 The visual feed obtained from the cameras is used by the bot's controller to generate a map of its surrounding - based on Simultaneous Localisation And Mapping techniques along with a fusion algorithm, say, Kalman filter, which then can be proccessed further based on IP techniques to monitor the surrounding as needed. 
 Thus, the bot can freely move around in its environment guided by SLAM, in addition to user's commands, therby achieving surveillance.
@@ -41,7 +41,7 @@ Thus, the bot can freely move around in its environment guided by SLAM, in addit
 We also can customise the bot by integrating sensors, based on the application area targeted, 
 implying a third objective,
 
-3)Bot-Customisation
+3) Bot-Customisation
  -> Embedding various sensors various sensors like DHT 11(Temperature and humidity sensor),MQ2 gas sensor, etc., to record various desired physical parameters in the surrounding
  environment. This data from the subsidiary sensors can be collected and the same can be transmitted to the local host or server.
 The user there can utilise this to perform necessary computations or even alter the bot's movement based on such inputs specific to the application intended to achieve the
