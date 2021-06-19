@@ -1,0 +1,16 @@
+Important links for project:
+-------------------------------------------------------------------------------------------------------
+
+1) https://vision.in.tum.de/_media/spezial/bib/engel14eccv.pdf
+
+2) https://medium.com/@j.zijlmans/lsd-slam-vs-orb-slam2-a-literature-based-comparison-20732df431d
+
+3) https://vision.in.tum.de/research/vslam
+
+4) https://www.hackster.io/dmitrywat/slam-with-ros-using-bittle-and-raspberry-pi-4-dad850
+
+5) https://vision.in.tum.de/_media/spezial/bib/engel14eccv.pdf
+
+6) https://medium.com/@j.zijlmans/lsd-slam-vs-orb-slam2-a-literature-based-comparison-20732df431d
+
+7) https://www.arducam.com/dual-camera-hat-synchronize-stereo-pi-raspberry/
