@@ -51,3 +51,11 @@ desired results.
 Further enhancement of the project is possible by considering a virtual reality headset 
 using which the user could be provided with an immersive rendering of the environment to be monitored, 
 along with upgrading the bot’s control to be done by hand gestures, thereby easing machine-human interaction.
+
+
+Project By:
+
+- [Shashank GS](https://github.com/GS-Shashank)
+- [Yashas Vinay](https://github.com/YashasV9) 
+- [Sumanth Shanbog H R](https://github.com/cosmos-shanbog)
+- [Shripada Adiga]
