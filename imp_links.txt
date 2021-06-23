@@ -15,3 +15,5 @@ Important links for project:
 6) https://medium.com/@j.zijlmans/lsd-slam-vs-orb-slam2-a-literature-based-comparison-20732df431d
 
 7) https://www.arducam.com/dual-camera-hat-synchronize-stereo-pi-raspberry/
+
+8)https://www.pololu.com/product/1200
