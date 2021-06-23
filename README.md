@@ -57,5 +57,13 @@ Project By:
 
 - [Shashank GS](https://github.com/GS-Shashank)
 - [Yashas Vinay](https://github.com/YashasV9) 
-- [Sumanth Shanbog H R](https://github.com/cosmos-shanbog)
 - [Shripada Adiga]
+- [Sumanth Shanbog H R](https://github.com/cosmos-shanbog)
+
+
+Linkedin URLs: -
+- [Shashank G S](https://www.linkedin.com/in/gs-shashank/)
+- [Yashas Vinay](https://www.linkedin.com/in/yashas-vinay-4a0b35165/)
+- [Shripada Adiga](https://www.linkedin.com/in/shripada-adiga-0156b6214/)
+- [Sumanth Shanbog H R](https://www.linkedin.com/in/cosmos-shanbog/)
+
